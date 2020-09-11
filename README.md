@@ -16,7 +16,8 @@ Simple Travel Planner with Weather API
   - RAPIDAPI_API_KEY=your_api_key_here rails server
 
 * Look and feel
+  - Search Screen
   ![Alt text](search.png?raw=true "Search Screen")
+  
+  - Search Result Screen
   ![Alt text](search-result.png?raw=true "Search Result Screen")
-
-* ...
